@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "aojiamarly.com",
+        "socialjia.com",
+        "mipujia.com",
+        "ebaidutv.com",
+        "quyaoya.com",
+        "smartsocial.cn",
+        "socialpls.com",
+        "weibopie.com",
+        "91friend.com",
+        "adsit.cn",
+        "mobhui.com",
+        "quyaoya.cn",
+        "mipujia.cn",
+        "mobhui.cn"
+      ]
+    }
+  ],
+  "version": 3
+}
