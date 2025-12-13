@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "viki.net",
+        "twemoji.maxcdn.com",
+        "m-content-viki.s.llnwi.net",
+        "viki.io",
+        "vikiplatform.com",
+        "viki.com",
+        "kalhlspd-a.akamaihd.net",
+        "vikidash.akamaized.net"
+      ]
+    }
+  ],
+  "version": 3
+}

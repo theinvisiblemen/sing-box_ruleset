@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "garena.tw",
+        "garenanow.com",
+        "cdngarenanow-a.akamaihd.net",
+        "garena.ph",
+        "dlmobilegarena-a.akamaihd.net",
+        "garena.co.th",
+        "garena.tv",
+        "garena.vn",
+        "garena.my",
+        "seagroup.com",
+        "garena.co.id",
+        "garena.live",
+        "garena.com",
+        "garena.sg",
+        "avatargarenanow-a.akamaihd.net"
+      ]
+    }
+  ],
+  "version": 3
+}

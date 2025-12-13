@@ -1,0 +1,59 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "qcloud"
+      ],
+      "domain_suffix": [
+        "ddnsfree.com",
+        "api.ipify.org",
+        "3322.org",
+        "synology.cn",
+        "checkport.synology.com",
+        "plex.direct",
+        "netdata.cloud",
+        "checkip.synology.com",
+        "whatismyip.akamai.com",
+        "quickconnect.cn",
+        "portcheck.transmissionbt.com",
+        "aliyuncs.com",
+        "changeip.com",
+        "myddns.rocks",
+        "account.synology.com",
+        "synocommunity.com",
+        "suo.yt",
+        "api.nn.ci",
+        "duckdns.org",
+        "dnsapi.cn",
+        "dns-dns.com",
+        "plex.tv",
+        "tpddns.cn",
+        "dyndns.org",
+        "quickconnect.to",
+        "elb.amazonaws.com",
+        "myqnapcloud.com",
+        "qnap.com",
+        "3322.net",
+        "checkipv6.synology.com",
+        "nat123.com",
+        "ddns.synology.com"
+      ],
+      "ip_cidr": [
+        "54.166.1.0/24",
+        "34.234.183.0/24",
+        "100.24.218.0/24",
+        "34.226.9.0/24",
+        "44.209.213.0/24",
+        "3.231.124.0/24",
+        "34.199.209.0/24",
+        "52.200.32.0/24",
+        "54.159.2.0/24",
+        "18.214.42.0/24",
+        "34.235.82.0/24",
+        "50.16.43.0/24",
+        "52.86.69.0/24"
+      ]
+    }
+  ],
+  "version": 3
+}
